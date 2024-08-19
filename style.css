@@ -1,5 +1,15 @@
 p{
-    color:red;
-    background-color: plum;
+    color:white;
     font-size: 20px;
+}
+span{
+    text-decoration: underline;
+    color:rgb(134, 134, 134)
+}
+p span{
+    color:aqua;
+    text-decoration: unset;
+}
+body{
+    background-color: plum;
 }
