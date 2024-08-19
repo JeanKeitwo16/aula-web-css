@@ -1,15 +1,36 @@
-p{
-    color:white;
+p {
+    color: white;
     font-size: 20px;
 }
-span{
+
+span {
     text-decoration: underline;
-    color:rgb(134, 134, 134)
+    color: rgba(255, 455, 14, 1)
 }
-p span{
-    color:aqua;
+
+p span {
+    color: rgb(117, 0, 153);
     text-decoration: unset;
 }
-body{
-    background-color: plum;
+
+body {
+    background-color: rgb(173, 110, 173);
+}
+
+#diferente {
+    color: antiquewhite;
+    font-size: 50px;
+}
+
+.corverde {
+    color: rgba(90, 207, 109, 0.7);
+}
+
+h1 {
+    color: #fa12b1;
+}
+
+h2 {
+    font-family: 'Comic Sans MS', sans-serif;
+    color: #f23;
 }
