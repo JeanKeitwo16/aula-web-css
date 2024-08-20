@@ -24,7 +24,7 @@ img{
     width: 500px;
     border-radius: 50%;
     opacity: 20%;
-    margin: 50px;
+    margin: 100px 600px 1px 700px;
 }
 
 #diferente {
@@ -41,8 +41,14 @@ h1 {
     color: #fa12b1;
     text-align: justify;
     display: block;
+    padding: 10px;
 }
-
+h1:hover{
+    color: #000;
+}
+img:hover{
+    opacity: 100%;
+}
 h2 {
     color: #f23;
     font-weight: lighter;
